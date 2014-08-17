@@ -10,11 +10,19 @@ namespace GeneralWcfService
 {
     // NOTE: You can use the "Rename" command on the "Refactor" menu to change the interface name "IService1" in both code and config file together.
     [ServiceContract]
-    public interface IService1
+    public interface IService
     {
 
         [OperationContract]
         string GetData(int value);
+
+        [OperationContract]
+        [WebGet]
+        string HelloWorld();
+
+        [OperationContract]
+        [WebGet(UriTemplate = "accounts/{id}")]
+        string GetAccount(string id);
 
         [OperationContract]
         CompositeType GetDataUsingDataContract(CompositeType composite);

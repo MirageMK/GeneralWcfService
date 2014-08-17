@@ -3,4 +3,3 @@ c:\users\aleksandar\documents\visual studio 2013\Projects\GeneralWcfService\Gene
 c:\users\aleksandar\documents\visual studio 2013\Projects\GeneralWcfService\GeneralWcfService\bin\GeneralWcfService.pdb
 c:\users\aleksandar\documents\visual studio 2013\Projects\GeneralWcfService\GeneralWcfService\obj\Debug\GeneralWcfService.dll
 c:\users\aleksandar\documents\visual studio 2013\Projects\GeneralWcfService\GeneralWcfService\obj\Debug\GeneralWcfService.pdb
-C:\Users\Aleksandar\documents\visual studio 2013\Projects\GeneralWcfService\GeneralWcfService\obj\Debug\GeneralWcfService.csprojResolveAssemblyReference.cache
